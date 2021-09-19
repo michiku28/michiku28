@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michiku28
 - 👀 I’m interested in rc modeling
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate with other rc friends
 - 📫 How to reach me michiku28@icloud.com
 
 <!---
